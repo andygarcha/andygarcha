@@ -22,10 +22,10 @@ Hi, and welcome to my GitHub portfolio! I'm Andy Garcha, a Computer Science stud
 
 On my own, I've accumulated a love of software and web development, and have learned a lot about full-stack web dev. Please take a look at my projects!!
 
-## Projects
+### Projects
 - [CE Assistant](https://github.com/andygarcha/CE-Assistant-v2) and [its frontend webpage](https://github.com/ce-assistant-frontend) - A discord.py web application that monitors and reports updates to a website and allows its 1500 users to participate in random roll events.
 
-## Education
+### Education
 My undergraduate degree in Computer Science allowed me to participate in a number of classes, learning from the basics of Object-Oriented Programming to full database management and artificial intelligence understanding.
 
 ### Courses
