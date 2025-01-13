@@ -35,7 +35,7 @@ fi
 #!/usr/bin/env sh
 
 PROJECT="paper"
-MINECRAFT_VERSION="1.21.3"
+MINECRAFT_VERSION="1.21.4"
 
 LATEST_BUILD=$(curl -s https://api.papermc.io/v2/projects/${PROJECT}/versions/${MINECRAFT_VERSION}/builds | \
     jq -r '.builds | map(select(.channel == "default") | .build) | .[-1]')
