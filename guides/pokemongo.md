@@ -3,6 +3,11 @@ This is a markdown file explaining things I did not previously understand in Pok
 
 Last Updated: January 26 2025
 
+## Table of Contents
+1. Mega Evolution
+2. Dynamax/Gigantamax
+3. Parties
+
 ## Mega Evolution
 ### Mega Evolving the first time
 To Mega Evolve a Pokémon the first time, you have to (obviously) have that Pokémon, as well as sufficient Mega Energy for that Pokémon. It will stay Mega Evolved for a set amount of time, before it goes back to its original form.
