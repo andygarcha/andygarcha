@@ -7,6 +7,7 @@ Last Updated: January 26 2025
 1. Mega Evolution
 2. Dynamax/Gigantamax
 3. Parties
+4. Trading
 
 ## Mega Evolution
 ### Mega Evolving the first time
@@ -45,3 +46,36 @@ A: No. If you try and do so, you'll forfeit your time with the first Mega Pokém
 This is just what I do to make my life easier regarding Megas.
 - If you have a Pokémon that *can* Mega Evolve (and you've done so less than 30 times), go ahead and Mega Evolve it. The more times you Mega Evolve it, the shorter your cooldown becomes. That is, unless you think you'll need that particular Mega in the near future.
 - If there's a Mega Pokémon in raids at the moment that you *don't have*, try as hard as you can to snag enough to Mega Evolve before it goes out of rotation. Once you Mega Evolve it once, you have your renewable source of Mega Energy (walking). 
+
+## Dynamax + Gigantamax
+> This section is incomplete!
+
+## Parties
+> This section is incomplete!
+
+## Trading
+> I have acquired this knowledge online. Subject to change.
+### Requirements
+In order to trade with another player, you must be within 100 meters of them and have each other added. You also must be level 10.
+
+### Limitations
+Trainers may only make one "special" trade per day. Special trades include the following:
+- Legendary Pokemon, Mythical Pokemon, and Ultra Beasts
+- Shiny Pokemon
+- Purified Pokemon
+> shadows???
+Outside of these "special" trades, a player can make up to 100 trades per day.
+
+### Friendship Levels
+The better friends you are with the other player, the lower the cost of the trade will be. As of February 8, 2025 the friendship requirements are:
+| Friendship Interactions | Friendship Level |
+| ----------------------- | ---------------- |
+| 1 - 6 times             | Good Friends     |
+| 7 - 29 times            | Great Friends    |
+| 30 - 89 times           | Ultra Friends    |
+| 90+ times               | Best Friends     |
+
+### Stardust Costs
+This infographic should be enough to understand the required Stardust.
+![image](https://github.com/user-attachments/assets/f2a0d795-894b-4afc-86dd-7f5b7e2d394c)
+
